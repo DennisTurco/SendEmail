@@ -1,0 +1,24 @@
+C:\Users\ospite\source\repos\send_email\send_email\bin\Debug\netcoreapp3.1\send_email.exe
+C:\Users\ospite\source\repos\send_email\send_email\bin\Debug\netcoreapp3.1\send_email.deps.json
+C:\Users\ospite\source\repos\send_email\send_email\bin\Debug\netcoreapp3.1\send_email.runtimeconfig.json
+C:\Users\ospite\source\repos\send_email\send_email\bin\Debug\netcoreapp3.1\send_email.runtimeconfig.dev.json
+C:\Users\ospite\source\repos\send_email\send_email\bin\Debug\netcoreapp3.1\send_email.dll
+C:\Users\ospite\source\repos\send_email\send_email\bin\Debug\netcoreapp3.1\send_email.pdb
+C:\Users\ospite\source\repos\send_email\send_email\obj\Debug\netcoreapp3.1\send_email.csproj.AssemblyReference.cache
+C:\Users\ospite\source\repos\send_email\send_email\obj\Debug\netcoreapp3.1\send_email.AssemblyInfoInputs.cache
+C:\Users\ospite\source\repos\send_email\send_email\obj\Debug\netcoreapp3.1\send_email.AssemblyInfo.cs
+C:\Users\ospite\source\repos\send_email\send_email\obj\Debug\netcoreapp3.1\send_email.csproj.CoreCompileInputs.cache
+C:\Users\ospite\source\repos\send_email\send_email\obj\Debug\netcoreapp3.1\send_email.dll
+C:\Users\ospite\source\repos\send_email\send_email\obj\Debug\netcoreapp3.1\send_email.pdb
+C:\Users\ospite\source\repos\send_email\send_email\obj\Debug\netcoreapp3.1\send_email.genruntimeconfig.cache
+G:\File Lavoro\send_email\send_email\bin\Debug\netcoreapp3.1\send_email.exe
+G:\File Lavoro\send_email\send_email\bin\Debug\netcoreapp3.1\send_email.deps.json
+G:\File Lavoro\send_email\send_email\bin\Debug\netcoreapp3.1\send_email.runtimeconfig.json
+G:\File Lavoro\send_email\send_email\bin\Debug\netcoreapp3.1\send_email.runtimeconfig.dev.json
+G:\File Lavoro\send_email\send_email\bin\Debug\netcoreapp3.1\send_email.dll
+G:\File Lavoro\send_email\send_email\bin\Debug\netcoreapp3.1\send_email.pdb
+G:\File Lavoro\send_email\send_email\obj\Debug\netcoreapp3.1\send_email.csprojAssemblyReference.cache
+G:\File Lavoro\send_email\send_email\obj\Debug\netcoreapp3.1\send_email.AssemblyInfoInputs.cache
+G:\File Lavoro\send_email\send_email\obj\Debug\netcoreapp3.1\send_email.AssemblyInfo.cs
+G:\File Lavoro\send_email\send_email\obj\Debug\netcoreapp3.1\send_email.dll
+G:\File Lavoro\send_email\send_email\obj\Debug\netcoreapp3.1\send_email.pdb
